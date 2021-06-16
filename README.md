@@ -52,7 +52,8 @@ R and SPSS data sets are available in the OSF repository (E_raw.Rdata, E_raw.sav
 
 R file: BalanceEndorsement_01_dataset preparation.R
 
-## Step 3. Select Countries. Retain data from countries who have ESS data for five or more rounds.
+## Step 3. Select Countries. 
+Retain data from countries who have ESS data for five or more rounds.
 
 ## Step 4. Clean Raw Data File
 
