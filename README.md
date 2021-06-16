@@ -98,8 +98,6 @@ R and SPSS data sets are available in the OSF repository (E_completeCase.Rdata, 
 
 R file: BalanceEndorsement_02_data analysis.R
 
-## PART III: Analyses (Steps 9-13)
-
 ## Step 9. Setting up Data for Final Analysis
 
 Code listed to use the complete case data which includes our adjusted ST-SE-VB variable.
