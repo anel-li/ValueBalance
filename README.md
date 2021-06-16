@@ -1,5 +1,4 @@
 # ValueBalance
-this repository contains the code for MDM21 project, group2
 
 Project: Can A Balanced Endorsement of Self-Enhancement and Self-Transcendence Values Be Measured? An Investigation Using European Social Survey Data.
 Authors: Heidi A. Wayment, Elisabeth Linek, Annamária Tátrai.
@@ -7,17 +6,17 @@ Authors: Heidi A. Wayment, Elisabeth Linek, Annamária Tátrai.
 Content of OSF (https://osf.io/x6zmk/): 
 1.	Data Analysis Plan (explanation of steps included in R code)
 2.	Code Files
-a.	BalanceEndorsement_00_dataset preparation.R
-b.	BalanceEndorsement_01_dataset setup.R
-c.	BalanceEndorsement_02_data analysis.R
-d.	BalanceEndorsement_SPSS_syntax.sps
+	a.	BalanceEndorsement_00_dataset preparation.R
+	b.	BalanceEndorsement_01_dataset setup.R
+	c.	BalanceEndorsement_02_data analysis.R
+	d.	BalanceEndorsement_SPSS_syntax.sps
 3.	Datasets
-a.	E_raw.Rdata
-b.	E_prepared.Rdata
-c.	E_completeCases.Rdata
-d.	E_raw.sav
-e.	E_prepared.sav
-f.	E_completeCases.sav
+	a.	E_raw.Rdata
+	b.	E_prepared.Rdata
+	c.	E_completeCases.Rdata
+	d.	E_raw.sav
+	e.	E_prepared.sav
+	f.	E_completeCases.sav
 4.	Overview of Study Variables 
 5.	ESS Documentation of PVQ-21
 6.	Folder: Exploratory analyses and visualizations by country
